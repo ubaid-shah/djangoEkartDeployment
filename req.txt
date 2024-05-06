@@ -2,3 +2,4 @@ django
 mysqlclient
 pillow
 razorpay
+-e
